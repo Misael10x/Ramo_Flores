@@ -126,3 +126,11 @@ flor(-11.60, 41.39)
 t.pencolor("DarkGray")
 t.fillcolor("White")
 flor(65.71, 85.27)
+
+t.color("Chocolate")
+go(100, -250)
+t.write("I LOVE YOU AMOR ;)", False, "center",
+        ("Bradley Hand ITC", 40, "bold"))
+
+t.hideturtle()
+turtle.done()
